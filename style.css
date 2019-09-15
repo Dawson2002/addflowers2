@@ -1,0 +1,136 @@
+body, html {
+    font-family: 'Lato', sans-serif;
+    background-color: f7f7f7;
+}
+#logo img {
+    float: left;
+    margin-left: 1.5em;
+    margin-top: 0.2em;
+}
+#pasek ul {
+    list-style-type: none;
+    overflow: none;
+    margin-top: 1.6em;
+    margin-right: 55em;
+  }
+  #pasek li {
+      font-weight: 400;
+      float: right;
+  }
+  #pasek li a {
+      display: block;
+      color: #2a2a2a;
+      padding: 0px 60px;
+      text-decoration: none;
+      font-size: 18px;
+  }
+  #pasek li a:hover {
+      color: #4072ae;
+  }
+  #img img {
+      float: right;
+      margin-top: -1.4em;
+      margin-right: 8em;
+  }
+  #napis1 h1 {
+      color: #4072ae;
+      float: left;
+      margin-top: 3em;
+      margin-left: 1em;
+      font-size: 70px;
+      line-height: 0.8em;
+  }
+  #napis2 p {
+      font-weight: 300;
+      font-size: 18px;
+      margin-top: 1.4em;
+      margin-left: 4.2em;
+      color: #2a2a2a;
+      float: left;
+      line-height: 1.3em;
+      word-spacing: 10px;
+  }
+  .button {
+      background-color: #4072ae;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      float: left;
+      margin-top: 17em;
+      margin-left: -33em;
+  }
+  .square {
+      width: 25px;
+      height: 600px;
+      background-color: #4072ae;
+      float: left;
+      margin-left: -33em;
+      margin-top: 40em;
+  }
+  #title1 h2 {
+      font-size: 70px;
+      color: #4072ae;
+      float: left;
+      margin-left: 2.3em;
+      margin-top: 6.2em;
+  }
+  #napis3 p {
+      color: #2a2a2a;
+      font-size: 18px;
+      float: left;
+      margin-left: -10.5em;
+      margin-top: 32em;
+      line-height: 1.3em;
+      word-spacing: 10px;
+  }
+  #napis4 p {
+    color: #2a2a2a;
+    font-size: 18px;
+    float: left;
+    margin-left: -30em;
+    margin-top: 47em;
+    line-height: 1.3em;
+    word-spacing: 10px;
+  }
+  .square2 {
+      background-color: #4072ae;
+      float: right;
+      height: 600px;
+      width: 25px;
+      margin-top: 27.2em;
+      margin-right: -10em;
+  }
+  #title2 h3 {
+      float: right;
+      font-size: 70px;
+      color: #4072ae;
+      margin-right: -6.2em;
+      margin-top: 6.1em;
+  }
+  #napis5 p {
+      color: #2a2a2a;
+      float: right;
+      font-size: 17px;
+      margin-right: -45em;
+      margin-top: 33.65em;
+  }
+  #napis6 p {
+      color: #2a2a2a;
+      float: right;
+      font-size: 17px;
+      margin-right: -45.2em;
+      margin-top: 49.5em;
+  }
+  #made p {
+      font-size: 15px;
+      color: #2a2a2a;
+      float: left;
+      margin-left: 12em;
+      margin-top: 50em;
+  }
